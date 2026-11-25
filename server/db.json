@@ -1,0 +1,104 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "name": "Sinh hoạt câu lạc bộ tháng 8",
+      "date": "2026-08-08",
+      "startTime": "08:00",
+      "endTime": "10:00",
+      "format": "Trực tiếp",
+      "location": "Phòng sinh hoạt câu lạc bộ",
+      "meetingUrl": "",
+      "capacity": 80
+    },
+    {
+      "id": "2",
+      "name": "Workshop kỹ năng làm việc nhóm",
+      "date": "2026-08-22",
+      "startTime": "14:00",
+      "endTime": "16:00",
+      "format": "Trực tuyến",
+      "location": "",
+      "meetingUrl": "https://meet.google.com/abc-defg-hij",
+      "capacity": 120
+    },
+    {
+      "id": "3",
+      "name": "Ngày hội tuyển thành viên mới",
+      "date": "2026-09-12",
+      "startTime": "07:30",
+      "endTime": "11:30",
+      "format": "Trực tiếp",
+      "location": "Sân trường khu A",
+      "meetingUrl": "",
+      "capacity": 200
+    },
+    {
+      "id": "4",
+      "name": "Chia sẻ kinh nghiệm thực tập",
+      "date": "2026-10-10",
+      "startTime": "19:00",
+      "endTime": "20:30",
+      "format": "Trực tuyến",
+      "location": "",
+      "meetingUrl": "https://zoom.us/j/12345678901",
+      "capacity": 150
+    },
+    {
+      "id": "5",
+      "name": "Giao lưu thể thao giữa các ban",
+      "date": "2026-11-07",
+      "startTime": "08:00",
+      "endTime": "12:00",
+      "format": "Trực tiếp",
+      "location": "Nhà thi đấu đa năng",
+      "meetingUrl": "",
+      "capacity": 48
+    },
+    {
+      "id": "6",
+      "name": "Talkshow định hướng nghề nghiệp",
+      "date": "2026-11-28",
+      "startTime": "09:00",
+      "endTime": "11:00",
+      "format": "Trực tuyến",
+      "location": "",
+      "meetingUrl": "https://meet.google.com/jkl-mnop-qrs",
+      "capacity": 300
+    },
+    {
+      "id": "7",
+      "name": "Workshop xây dựng giao diện React",
+      "date": "2026-12-05",
+      "startTime": "14:00",
+      "endTime": "17:00",
+      "format": "Trực tiếp",
+      "location": "Phòng máy thực hành 02",
+      "meetingUrl": "",
+      "capacity": 60
+    },
+    {
+      "id": "8",
+      "name": "Đêm nhạc gây quỹ thiện nguyện",
+      "date": "2026-12-19",
+      "startTime": "18:00",
+      "endTime": "21:00",
+      "format": "Trực tiếp",
+      "location": "Hội trường lớn",
+      "meetingUrl": "",
+      "capacity": 450
+    },
+    {
+      "name": "Music festival",
+      "date": "2026-11-25",
+      "startTime": "16:00",
+      "endTime": "19:00",
+      "format": "Trực tiếp",
+      "location": "abcd",
+      "meetingUrl": "",
+      "capacity": 50,
+      "id": "sI2O6ZT7V7U"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
